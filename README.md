@@ -1,4 +1,4 @@
-# Movie-Trailer-Website
+# Movie-Trailer-Website-An-Amazing-Project
 Movie Trailer Website - using Python
 
 This project will build a Movie Trailer Website with movies trailers and watch the trailers. 
